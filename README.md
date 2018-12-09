@@ -1,7 +1,7 @@
-# Satori Reader Night Mode Userstyle
+# Satori Reader DeepDark
 
-CSS userstyle for [Satori Reader](https://www.satorireader.com) for night owls.
+A smooth black and blue night mode CSS userstyle for [Satori Reader](https://www.satorireader.com), inspired by Stefano Rosselli's DeepDark themes.
 
 ## Installation
 
-Install with Stylish from <https://userstyles.org/TODO>.
+Install with [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) from <https://userstyles.org/styles/166797/satori-reader-deepdark>.
