@@ -112,6 +112,7 @@ h2,
 }
 
 /* Article text color */
+.article-standard .paragraph.headline .sentence-selected,
 .paragraph.body .wpt,
 .paragraph.body .fg,
 .tooltip-content span,
@@ -129,9 +130,12 @@ h2,
 }
 
 /* Selected words or sentences */
+.article-standard .paragraph.headline .sentence-selected,
 .paragraph.body .sentence.highlight {
     background-color: #454545 !important;
 }
+
+.article-standard .paragraph.headline .sentence-selected,
 .article-standard .paragraph.body .sentence-selected {
     border-bottom: solid 5px #656565 !important
 }
