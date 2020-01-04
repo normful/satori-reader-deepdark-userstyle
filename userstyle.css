@@ -77,8 +77,12 @@ h2,
 .series-detail-grid-item .series-detail-grid-right .title a,
 .article-instance-list-item-title a,
 .article-set-list-item .title a,
-#pro-content-message h3 {
-    color: #1e90ff !important;
+#pro-content-message h3,
+.recently-added .items-container .items .item .set-info .set-title a {
+    color: #5ea8f0 !important;
+}
+.recently-added .items-container .items .item .set-info .set-title a:hover {
+    border-color: #5ea8f0 !important;
 }
 
 /* Content box background */
@@ -106,7 +110,11 @@ h2,
 .tooltip-content .tooltip-button .text,
 .article-instance-list-item-status.started,
 .article-instance-list-item-status.completed,
-.article-instance-list-item-difficulty {
+.article-instance-list-item-difficulty,
+.example-sentence,
+.recently-added .header,
+.recently-added .items-container,
+.recently-added .items-container .items {
     background-color: #202020 !important;
     border: none !important;
 }
@@ -194,7 +202,8 @@ h2,
 .article-header-image,
 .article-standard .dialog-bubble-left .dialog-headshot,
 .article-standard .dialog-bubble-right .dialog-headshot,
-.contributor-image {
+.contributor-image,
+.recently-added .items-container .items .item .set-image {
     filter: brightness(40%) !important;
 }
 
